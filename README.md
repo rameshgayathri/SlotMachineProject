@@ -1,4 +1,4 @@
-<h1>Slot Machine Game</h1>
+<h1>SlotPot - A Slot Machine Game</h1>
 
 This is a simple text-based slot machine game written in Python. Players can deposit an initial amount, choose the number of lines to bet on, and spin the slot machine. The game calculates winnings based on the combination of symbols on the lines and updates the player's balance accordingly.
 
